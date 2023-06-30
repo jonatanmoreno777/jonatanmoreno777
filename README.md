@@ -1,5 +1,7 @@
 Hi, I'm Jonatan Moreno!
+<!--
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+-->
 <!--
 [![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/giswqs?tab=followers)
 -->
