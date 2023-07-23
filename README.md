@@ -36,9 +36,9 @@ I am an Agricultural Engineer from the [University of San Cristobal de Huamanga]
 - **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR)
 - **Python packages:** [geemap](https://github.com/giswqs/geemap) | [leafmap](https://github.com/giswqs/leafmap) | [eefolium](https://github.com/giswqs/eefolium) | [geehydro](https://github.com/giswqs/geehydro) | [lidar](https://github.com/giswqs/lidar) | [whitebox](https://github.com/giswqs/whitebox) | [whiteboxgui](https://github.com/giswqs/whiteboxgui) | [geospatial](https://github.com/giswqs/geospatial) | [pygis](https://github.com/giswqs/pygis) | [pypackage](https://github.com/giswqs/pypackage)
 -->
-
+<!--
 ### 🧰 Frameworks and Libraries
-
+<!--
 <p>
     <a href="#"><img alt="Xarray" src="https://img.shields.io/badge/Xarray%20-%23D00000.svg?logo=Xarray&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
