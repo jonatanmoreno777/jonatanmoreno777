@@ -12,7 +12,7 @@ Hi, I'm Jonatan Moreno!
 I am an Agricultural Engineer from the [University of San Cristobal de Huamanga](https://enlinea.unsch.edu.pe/). My research interests include hydrology, hydrometeorology, geographic information science (GIS), and climate change. More specifically, I am interested in applying machine learning and cloud computing (eg, AWS, Earth Engine, Planetary Computer) to study climate change on water resources, especially surface water and wetland flood dynamics. I am open minded for reproducible research.
 
  <a href="mailto:elmermorenovillafuerte@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&Jonatan=Moreno%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-
+<!--
 ---
 ## 🛠️ My Favorite Tools
 <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -20,6 +20,7 @@ I am an Agricultural Engineer from the [University of San Cristobal de Huamanga]
         <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
         <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
         <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
+-->
 ### 👨‍💻 Programming Languages
 
 <p>
