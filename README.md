@@ -1,4 +1,11 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonatan+Moreno!;" />
+</h1>
+
+<!--
 👨‍💻 <i> Hi, I'm Jonatan Moreno!</a>
+-->
+<!--
 <!--
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 -->
