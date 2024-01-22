@@ -31,8 +31,9 @@ I am an Agricultural Engineer from the [University of San Cristobal de Huamanga]
         <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
         <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
 -->
+<!--
 ### 👨‍💻 Programming Languages
-
+<!--
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/%20-%2314354C.svg?logo=R&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajupyter"><img alt="R" src="https://img.shields.io/badge/%20-%2314354C.svg?logo=Jupyter&logoColor=orange"></a>
@@ -40,7 +41,8 @@ I am an Agricultural Engineer from the [University of San Cristobal de Huamanga]
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aspyder"><img alt="Spyder" src="https://raw.githubusercontent.com/spyder-ide/spyder/master/branding/logo/spyder_readme_banner.png" height="21"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aspyder"><img alt="Spyder" src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="21"></a>
-<!--
+ <!--
+![JonatanMoreno's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatanmoreno777&show_icons=true&theme=radical)
 ### Open-source Projects
 <!--
 - **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)
