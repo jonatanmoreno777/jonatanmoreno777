@@ -17,8 +17,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/jonatan-moreno-03417b264/)
 -->
 [![GitHub Badge](https://img.shields.io/badge/My-GitHub-white)](https://github.com/jonatanmoreno777)
-[![HIDROSHARE Badge](https://img.shields.io/badge/HIDRO-SHARE-green)](https://www.hydroshare.org/resource/9e6676d17c854e4f8dff4dcedf8f97cb/)
+[![HIDROSHARE Badge](https://img.shields.io/badge/HIDRO-SHARE-orange)](https://www.hydroshare.org/resource/9e6676d17c854e4f8dff4dcedf8f97cb/)
 [![HYDROLOGY Badge](https://img.shields.io/badge/CRAN-HYDRO-cyan)](https://cran.r-project.org/web/views/Hydrology.html)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-ID-green)](https://cran.r-project.org/web/views/Hydrology.html](https://orcid.org/0009-0009-7284-8346))
 
 I am an Agricultural Engineer from the [University of San Cristobal de Huamanga](https://enlinea.unsch.edu.pe/). My research interests include hydrology, hydrometeorology, geographic information science (GIS), and climate change. I am open minded for reproducible research.
 <!--
