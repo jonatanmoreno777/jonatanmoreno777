@@ -21,7 +21,7 @@
 [![HYDROLOGY Badge](https://img.shields.io/badge/CRAN-HYDRO-cyan)](https://cran.r-project.org/web/views/Hydrology.html)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-ID-green)](https://orcid.org/0009-0009-7284-8346)
 
-I am an Agricultural Engineer from the [University of San Cristobal de Huamanga](https://enlinea.unsch.edu.pe/). My research interests include hydrology, hydrometeorology, geographic information science (GIS), and climate change. I am open minded for reproducible research.
+I am an Agricultural Engineer from the [University of San Cristobal de Huamanga](https://enlinea.unsch.edu.pe/). My research interests include **hydrology**, hydrometeorology, geographic information science (GIS), and climate change. I am open minded for reproducible research.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatanmoreno777&show_icons=true&locale=en&layout=compact" alt="jonatanmoreno777" /></p>
 <!--
